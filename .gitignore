@@ -1,2 +1,8 @@
 .DS_Store
 autoload/*
+undodir/*
+plugin/*
+fzi/*
+fzi
+fzf/*
+
