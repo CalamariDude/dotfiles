@@ -2,7 +2,8 @@
 autoload/*
 undodir/*
 plugin/*
+venv/*
 fzi/*
-fzi
+./fzi
 fzf/*
 
